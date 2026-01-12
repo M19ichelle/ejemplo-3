@@ -1,1 +1,3 @@
-este es mi primer repositorio
+# ejemplo git
+
+este es un ejemplo de un readme
